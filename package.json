@@ -1,0 +1,27 @@
+{
+  "name": "earnings_calendar",
+  "version": "1.0.0",
+  "description": "yahoo earnings calendar scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hernanvb/earnings_calendar.git"
+  },
+  "keywords": [
+    "earnings",
+    "calendar"
+  ],
+  "author": "Hernan Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hernanvb/earnings_calendar/issues"
+  },
+  "homepage": "https://github.com/Hernanvb/earnings_calendar#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
